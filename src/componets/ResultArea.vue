@@ -3,7 +3,7 @@
 
 
 <template>
- 
+    <h1>Result Area</h1>
 </template>
 
 

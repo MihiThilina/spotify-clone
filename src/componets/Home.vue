@@ -1,4 +1,6 @@
 <script setup>
+import SearchArea from './SearchArea.vue';
+import ResultArea from './ResultArea.vue';
 </script>
 
 
@@ -7,19 +9,8 @@
     <div class="row">
       <form>
         <fieldset>
-          <div class="form-group row">
-            <label for="staticEmail" class="col-sm-2 col-form-label"
-              >Search Music</label
-            >
-            <div class="col-sm-10">
-              <input
-                type="text"
-                class="form-control"
-                id="staticEmail"
-                placeholder="Type here"
-              />
-            </div>
-          </div>
+            <SearchArea></SearchArea>
+             <ResultArea></ResultArea>
         </fieldset>
       </form>
     </div>
