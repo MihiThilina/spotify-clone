@@ -61,10 +61,37 @@
         </va-sidebar-item-content>
       </va-sidebar-item>
 
+      <va-sidebar-item style="position:absolute; top:450px; left: -1px;">
+        <va-sidebar-item-content>
+              <div style="border: 1.3px solid #323231; background-color:#323231; width:14vw;">
 
-        
+              </div>
+        </va-sidebar-item-content>
+      </va-sidebar-item>
 
+      <va-sidebar-item style="position:absolute; top:480px; height: 30vh;">
+        <va-sidebar-item-content>
+             <h4 style="color:white; font-style: normal; font-weight: 300;">Life is really strange</h4>
+        </va-sidebar-item-content>
+        <va-sidebar-item-content style="position: relative; top:-20px;">
+             <h4 style="color:white; font-style: normal; font-weight: 300;">This is Kid Cudi</h4>
+        </va-sidebar-item-content>
+        <va-sidebar-item-content style="position: relative; top:-40px;">
+             <h4 style="color:white; font-style: normal; font-weight: 300;">Lava Lamp</h4>
+        </va-sidebar-item-content>
+        <va-sidebar-item-content style="position: relative; top:-60px;">
+             <h4 style="color:white; font-style: normal; font-weight: 300;">Mix Diario 3</h4>
+        </va-sidebar-item-content>
+        <va-sidebar-item-content style="position: relative; top:-80px;">
+             <h4 style="color:white; font-style: normal; font-weight: 300;">Pop Punk</h4>
+        </va-sidebar-item-content>
+       
+      </va-sidebar-item>
+
+      
     </va-sidebar>
+      
+
   </div>
 </template>
 
