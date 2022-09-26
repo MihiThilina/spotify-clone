@@ -36,8 +36,35 @@
           <va-sidebar-item-title style="color: white; position: relative; left: 10px;">Your libray</va-sidebar-item-title>
         </va-sidebar-item-content>
       </va-sidebar-item>
-    </va-sidebar>
 
+      <va-sidebar-item style="position:absolute; top:320px">
+        <va-sidebar-item-content>
+          <va-sidebar-item-title style="color: white; position: relative; left:; font-weight: bold;">PLAYLISTS</va-sidebar-item-title>
+        </va-sidebar-item-content>
+      </va-sidebar-item>
+
+      <va-sidebar-item style="position:absolute; top:360px">
+        <va-sidebar-item-content>
+          <div style="border-radius:2px; width:2vw; background-color:#b7b7b7; height:4vh;">
+              <h1 style="text-align:center; position: relative; font-size: 24px;">+</h1>
+          </div>
+          <va-sidebar-item-title style="color: white; position: relative; left: 10px;">Create Playlist</va-sidebar-item-title>
+        </va-sidebar-item-content>
+      </va-sidebar-item>
+
+      <va-sidebar-item style="position:absolute; top:410px">
+        <va-sidebar-item-content>
+          <div style="border-radius:2px; width:2vw; background-image: linear-gradient(to right top, #5c50be, #877ad0, #afa5e1, #d7d1f0, #ffffff); height:4vh;">
+            <img style="width:1vw; position: relative; left:7px; top: 6px;" src="../../src/img/heart.png" alt="">
+          </div>
+          <va-sidebar-item-title style="color: white; position: relative; left: 10px;">Like Songs</va-sidebar-item-title>
+        </va-sidebar-item-content>
+      </va-sidebar-item>
+
+
+        
+
+    </va-sidebar>
   </div>
 </template>
 
