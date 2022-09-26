@@ -5,16 +5,11 @@ import ResultArea from './ResultArea.vue';
 
 
 <template>
-  <div class="container">
-    <div class="row">
-      <form>
-        <fieldset>
-            <SearchArea></SearchArea>
-             <ResultArea></ResultArea>
-        </fieldset>
-      </form>
-    </div>
-  </div>
+  
+             <ResultArea>
+
+             </ResultArea>
+       
 </template>
 
 <style>
