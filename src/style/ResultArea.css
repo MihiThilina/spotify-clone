@@ -1,6 +1,14 @@
 
 .resultCards{
-    border: 1px solid white;
     display: flex;
-    
+    width: 80vw;
+    margin: auto;
+    height: 28vh;
+    position: relative;
+    top:150px;
+}
+
+.cards{
+    margin: 10px;
+    width: 10vw;
 }
