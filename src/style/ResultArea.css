@@ -5,10 +5,33 @@
     margin: auto;
     height: 28vh;
     position: relative;
-    top:150px;
+    top:135px;
 }
 
 .cards{
     margin: 10px;
     width: 10vw;
+}
+
+
+.resultCards2{
+    display: flex;
+    width: 80vw;
+    margin: auto;
+    height: 28vh;
+    position: relative;
+    top:210px;
+}
+
+.cards2{
+    margin: 10px;
+    width: 10vw;
+}
+
+.avatar{
+    position: absolute;
+    width: 20vw;
+    right: 0;
+    top: 10px;
+    height: 8vh;
 }
