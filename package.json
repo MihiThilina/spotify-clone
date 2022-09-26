@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "vue": "^3.2.38"
+    "vue": "^3.2.38",
+    "vuesax": "^3.12.2",
+    "vuestic-ui": "^1.4.12"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.3",
