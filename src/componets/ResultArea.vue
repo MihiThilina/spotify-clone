@@ -6,6 +6,7 @@
   <div
     class="main"
     style="
+     background-color: #111111;
       position: absolute;
       width: 83vw;
       left: 258px;
@@ -55,28 +56,30 @@
       <div class="cards">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d0000b273419b726151ff531d23b05e1f"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Tonta</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Rkm&Ken-Y Natti Natasha</va-card-title
               >
             </va-card>
           </div>
@@ -86,28 +89,30 @@
       <div class="cards">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d0000b27388001b7590b469b401df06e9"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Buena Vida</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Natti Natasha, Daddy Yankee</va-card-title
               >
             </va-card>
           </div>
@@ -116,28 +121,30 @@
       <div class="cards">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d0000b2738c684d7745b7b5b76f1706c6"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Honey Boo</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >CNCO, Natti Natasha</va-card-title
               >
             </va-card>
           </div>
@@ -146,28 +153,30 @@
       <div class="cards">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d0000b273b1717c201d31ad8e43dedc55"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Enec</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Ozuna</va-card-title
               >
             </va-card>
           </div>
@@ -176,28 +185,30 @@
       <div class="cards">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d0000b2738b80442d2c6736a5a6ad3cdb"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Que Va</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Alex Sensation, Ozuna</va-card-title
               >
             </va-card>
           </div>
@@ -206,28 +217,30 @@
       <div class="cards">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d0000b27390b5a90a5eaba144a0bbc062"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Vacia Sin Mi</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Ozuna</va-card-title
               >
             </va-card>
           </div>
@@ -236,28 +249,30 @@
       <div class="cards">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d0000b2737463aeddb4c4afcdb5825581"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Santo </va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Christina Aguilera, Ozuna</va-card-title
               >
             </va-card>
           </div>
@@ -292,28 +307,30 @@
       <div class="cards2">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d00001e028cce3c807c4a560c09a86e9a"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Ozuna</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                ></va-card-title
               >
             </va-card>
           </div>
@@ -323,28 +340,30 @@
       <div class="cards2">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d00001e02af20c7288d0cfbbd419b411d"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Jaleo </va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Nicky Jam, Steve Aoki</va-card-title
               >
             </va-card>
           </div>
@@ -353,28 +372,30 @@
       <div class="cards2">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d0000b273d5d5b791ab4a9f26904166f9"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Dark Love</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                > Tower Beatz </va-card-title
               >
             </va-card>
           </div>
@@ -383,28 +404,30 @@
       <div class="cards2">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://soundsandcolours.com/static/2018/12/cardi-b-j-balvin-bad-bunny-i-like-it-2018-billboard-1500.jpg"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                > I Like It</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Cardi-bj & balvin bad-bunny</va-card-title
               >
             </va-card>
           </div>
@@ -413,28 +436,30 @@
       <div class="cards2">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d00001e02ac96988e0118f6ed48d7f64f"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Danena Thuru Ma</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Dinesh Gamage</va-card-title
               >
             </va-card>
           </div>
@@ -443,28 +468,30 @@
       <div class="cards2">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh; background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://wallpapercave.com/uwp/uwp1706120.jpeg"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Mad Love</va-card-title
               >
               <va-card-title
                 style="
+                color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Sean Paul,Backy G</va-card-title
               >
             </va-card>
           </div>
@@ -473,28 +500,30 @@
       <div class="cards2">
         <div class="row">
           <div class="flex md6 lg12">
-            <va-card style="height: 25vh">
+            <va-card style="height: 27vh;background-color: #292929;">
               <va-image
-                src="https://picsum.photos/400/200"
+                src="https://i.scdn.co/image/ab67616d00001e02ff16b23d53ff793a64ec2138"
                 style="height: 17vh"
               />
               <va-card-title
                 style="
+                color: #efedef;
                   position: relative;
                   top: -10px;
                   font-weight: 900;
                   font-size: 14px;
                 "
-                >Title</va-card-title
+                >Criminal</va-card-title
               >
               <va-card-title
                 style="
+                  color: #828282;
                   position: relative;
                   top: -25px;
                   font-weight: 100;
                   font-size: 10px;
                 "
-                >Kasun Kalhara</va-card-title
+                >Natti Natasha,Ozuna</va-card-title
               >
             </va-card>
           </div>
