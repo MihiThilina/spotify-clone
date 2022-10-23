@@ -41,7 +41,7 @@
               
               </section>
               <span class="playlistContent">
-                <h1>My Playlist #1</h1>
+                <h1>My Playlist  #1</h1>
                 <h6>By Thilina Bandara</h6>
               </span>
            </div> 

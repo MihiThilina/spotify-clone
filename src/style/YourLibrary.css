@@ -114,5 +114,19 @@
 }
 
 .playlistContent{
-    
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+
+.playlistContent h1{
+    font-size: 17px;
+    color: white;
+}
+.playlistContent h6{
+    font-size: 13px;
+    position: relative;
+    top: 10px;
+    color: white;
+    font-weight: 100;
 }
