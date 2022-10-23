@@ -5,6 +5,7 @@ import 'vuestic-ui/css'
 import '../src/style/ResultArea.css'
 import '../src/style/navbar.css'
 import '../src/style/SerachArea.css'
+import '../src/style/YourLibrary.css'
 
 
 

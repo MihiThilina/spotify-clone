@@ -3,7 +3,7 @@ import Navbar from "./componets/Navbar.vue";
 import Home from "./componets/Home.vue";
 import SerachArea from "./componets/SearchArea.vue";
 import SearchArea from "./componets/SearchArea.vue";
-
+import YourLibrary from "./componets/YourLibrary.vue";
 
 </script>
 
@@ -11,7 +11,8 @@ import SearchArea from "./componets/SearchArea.vue";
 
  
     <Navbar></Navbar>
-    <SearchArea></SearchArea>
+    <!-- <SearchArea></SearchArea> -->
+    <YourLibrary></YourLibrary>
     <!-- <Home></Home> -->
 </template>
 
