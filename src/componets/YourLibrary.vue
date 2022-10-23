@@ -28,8 +28,9 @@
 
       <h1 class="Topic">Playlists</h1>
         
-        <div class="card">
-            
+        <div class="cards">
+           <div></div> 
+           <div></div> 
         </div>
     </div>
   </main>
