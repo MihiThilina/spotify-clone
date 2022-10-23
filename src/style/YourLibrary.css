@@ -53,7 +53,7 @@
 .Topic{
     position: absolute;
     top: 15%;
-    left: 2%;
+    left: 4%;
     font-size: 30px;
     font-weight: bold;
     color: white;
@@ -63,21 +63,22 @@
     position: absolute;
     top: 22%;
     display: flex;
-    left: 1px;
+    left: 35px;
+   
     width: 60%;
     height: 50%;
 }
 
 .cards div:nth-child(1){
-    border: 1px solid rgb(177, 177, 177);
+    background-image: linear-gradient(to right top, #501ef2, #5c3ff1, #6956ef, #776bec, #857ee7);
     width: 53%;
     margin: 10px;
     height: 80%;
     border-radius: 10px;
 }
 .cards div:nth-child(2){
-    border: 1px solid rgb(177, 177, 177);
     width: 30%;
+    background-image: linear-gradient(to right top, #000000, #161616, #252425, #343335, #434346);
     margin: 10px;
     height: 80%;
     border-radius: 10px;
@@ -110,7 +111,7 @@
     top: 20px;
     text-align: center;
     margin: auto;
-    background-color: rgb(127, 127, 127);
+    background-color: rgb(67, 67, 67);
 }
 
 .playlistContent{

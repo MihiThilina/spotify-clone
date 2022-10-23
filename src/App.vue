@@ -14,6 +14,9 @@ import YourLibrary from "./componets/YourLibrary.vue";
     <!-- <SearchArea></SearchArea> -->
     <YourLibrary></YourLibrary>
     <!-- <Home></Home> -->
+   
+    
+
 </template>
 
 <style>

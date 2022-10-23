@@ -6,6 +6,7 @@ import '../src/style/ResultArea.css'
 import '../src/style/navbar.css'
 import '../src/style/SerachArea.css'
 import '../src/style/YourLibrary.css'
+import { createRouter,createWebHistory } from 'vue-router'
 
 
 
@@ -15,4 +16,5 @@ import '../src/style/YourLibrary.css'
 const app = createApp(App)
 app.use(createVuestic())
 app.mount('#app')
+
 //...

@@ -33,6 +33,7 @@
       <va-sidebar-item style="position:absolute; top:250px">
         <va-sidebar-item-content>
           <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAACBUlEQVRIia2Wv2tUQRSFv7uRqAkYNOAvDKhgk8IUIiqYwhhBsLEQsbQSe/8CwQiCvX+DltoIWREUtUgRYgTJimhnYaIYUdyIfBaZXWdf3otr1guPOXNm5p6Z+84bHlSEelNt2hlNdapqzT9FSrajwA2rPxI+qF5R76nz6uWyPLGOgBGxZlwVeAsMAPX0vAPuAzsj4me3JzDDjZxXz5XMn1HHi3ytKzU4VLGJA+po6k4DZzYqUIzJ1J4Aridcz/iOXZS5ZaVQog6svkp4j7qo9qmb1S/qUFGgyi3rCSyqe1N/Xj2a8EP1fJ6rBvRHxKecjIilv5ToMXC6pDSPMr4tkO+8QXeRv9DpTGDti16vFFVY3a9+UEMdVJdTG4kfKT1BtxER74HvwGhEfANmgZMRIavla7tpozaFztLUC/hPmTZSotReUB8kfFydTXif+lGt9SqwPfm+P30HS+ruNLagjkEPJYqIz8ACcCwifgFPgFNpuO2mosCbinxVfG7LO8DSGj4/fh7d8OqE+rxkzrZk3a29CrTvH3WXerF1F6nP1Ilaa1GKRjFZGd+KiGgCL4A54DVwCRhMw6vW7eUEqX9Nvav2FfhxdeZ/CIypCyXzRtTlTcCKOpzfoOpwqy3hm4VcL4Eh9TCwhVX3TAJHgFuoU5b/njyt4G+U7Paq+lWdU2+rZ9UBgN/BN2yyzoxN0QAAAABJRU5ErkJggg==">      
+       
           <va-sidebar-item-title class="navitem" style="color: white; position: relative; left: 10px;">Your libray</va-sidebar-item-title>
         </va-sidebar-item-content>
       </va-sidebar-item>
