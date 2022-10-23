@@ -102,3 +102,17 @@
     position: relative;
     top: 10px;
 }
+
+.rectangle{
+    width: 12vw;
+    height: 25vh;
+    position: relative;
+    top: 20px;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(127, 127, 127);
+}
+
+.playlistContent{
+    
+}

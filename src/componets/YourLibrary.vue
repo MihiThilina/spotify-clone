@@ -35,7 +35,19 @@
            <h6>0 like songs</h6>
            </span>
            </div> 
-           <div></div> 
+
+           <div>
+              <section class="rectangle">
+              
+              </section>
+              <span class="playlistContent">
+                <h1>My Playlist #1</h1>
+                <h6>By Thilina Bandara</h6>
+              </span>
+           </div> 
+
+
+           
         </div>
     </div>
   </main>
