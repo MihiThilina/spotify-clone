@@ -10,3 +10,7 @@ import Home from "./componets/Home.vue";
     <Navbar></Navbar>
     <Home></Home>
 </template>
+
+<style>
+    
+</style>
