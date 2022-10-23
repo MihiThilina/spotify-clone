@@ -53,7 +53,7 @@
     </h2>
 
     <div class="resultCards">
-      <div class="cards">
+      <div class="MusicCards">
         <div class="row">
           <div class="flex md6 lg12">
             <va-card style="height: 27vh; background-color: #292929;">
@@ -86,7 +86,7 @@
         </div>
       </div>
 
-      <div class="cards">
+      <div class="MusicCards">
         <div class="row">
           <div class="flex md6 lg12">
             <va-card style="height: 27vh; background-color: #292929;">
@@ -118,7 +118,7 @@
           </div>
         </div>
       </div>
-      <div class="cards">
+      <div class="MusicCards">
         <div class="row">
           <div class="flex md6 lg12">
             <va-card style="height: 27vh; background-color: #292929;">
@@ -150,7 +150,7 @@
           </div>
         </div>
       </div>
-      <div class="cards">
+      <div class="MusicCards">
         <div class="row">
           <div class="flex md6 lg12">
             <va-card style="height: 27vh; background-color: #292929;">
@@ -182,7 +182,7 @@
           </div>
         </div>
       </div>
-      <div class="cards">
+      <div class="MusicCards">
         <div class="row">
           <div class="flex md6 lg12">
             <va-card style="height: 27vh; background-color: #292929;">
@@ -214,7 +214,7 @@
           </div>
         </div>
       </div>
-      <div class="cards">
+      <div class="MusicCards">
         <div class="row">
           <div class="flex md6 lg12">
             <va-card style="height: 27vh; background-color: #292929;">
@@ -246,7 +246,7 @@
           </div>
         </div>
       </div>
-      <div class="cards">
+      <div class="MusicCards">
         <div class="row">
           <div class="flex md6 lg12">
             <va-card style="height: 27vh; background-color: #292929;">

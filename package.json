@@ -9,6 +9,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "vue": "^3.2.38",
+    "vue-router": "^4.1.5",
     "vuesax": "^3.12.2",
     "vuestic-ui": "^1.4.12"
   },
