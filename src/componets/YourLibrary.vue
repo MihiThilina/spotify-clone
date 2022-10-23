@@ -17,9 +17,20 @@
     </div>
 
     <div class="LibaryArea">
-      <div>
-       
+      <div class="navBar">
+        <ul>
+          <li class="active"><span>Playlists</span></li>
+          <li><span>Artiets</span> </li>
+          <li><span>Albums</span></li>
+        </ul>
       </div>
+
+
+      <h1 class="Topic">Playlists</h1>
+        
+        <div class="card">
+            
+        </div>
     </div>
   </main>
 </template>

@@ -2,9 +2,59 @@
 .LibaryArea{
     width: 83.1vw;
     height: 100vh;
-    border: 1px solid white;
     position: absolute;
     top: 0;
     right: 0;
 }
 
+.navBar{
+    position: absolute;
+    width: 30vw;
+    height: 10vh;
+    left: 10%;
+    top: 10px;
+}
+
+.navBar ul{
+    display: flex;
+    margin: 10px;
+    padding: auto;
+}
+
+.navBar ul li{
+    margin: 20px;
+    padding: auto;
+    position: relative;
+    top: -10px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    width:10vw;
+    text-align: center;
+    color: white;
+    height: 5vh;
+}
+
+.navBar ul li:hover{
+  cursor: pointer;
+}
+.active{
+    background-color: rgb(78, 78, 78);
+}
+
+.navBar ul li span{
+    position: relative;
+    top: 7px;
+}
+
+
+/* ------------------------------------------------------------ */
+
+.Topic{
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
