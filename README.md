@@ -1,6 +1,7 @@
 # Spotify Clone 
 
 
+![5](https://user-images.githubusercontent.com/90233553/192450329-8426d060-9471-4367-8232-8f591357795c.PNG)
 
 ## Project Setup
 
