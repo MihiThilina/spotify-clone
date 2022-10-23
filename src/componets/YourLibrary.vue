@@ -29,7 +29,12 @@
       <h1 class="Topic">Playlists</h1>
         
         <div class="cards">
-           <div></div> 
+           <div>
+           <span class="content">
+           <h1>Like Songs</h1>
+           <h6>0 like songs</h6>
+           </span>
+           </div> 
            <div></div> 
         </div>
     </div>
